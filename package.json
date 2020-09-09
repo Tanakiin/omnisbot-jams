@@ -2,11 +2,11 @@
 	"name": "discord-music-bot",
 	"version": "1.0.0",
 	"description": "Very simple discord music bot with the discordjs.guide command handler for easy learning and adapting.",
-	"main": "index.js",
+	"main": "main.js",
 	"author": "Tanakiin",
 	"license": "MIT",
 	"scripts": {
-		"start": "node index.js"
+		"start": "node main.js"
 	},
 	"dependencies": {
 		"discord.js": "^12.2.0",
