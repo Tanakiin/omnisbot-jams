@@ -5,8 +5,8 @@ const fs = require("fs");
 const Enmap = require("enmap");
 
 client.config = {
-  prefix: process.env.DISCORD_PREFIX,
-  api: process.env.GOOGLE_API,
+  prefix: 'ta ',
+  api: 'AIzaSyB4aSHr6FLYSO296BgK08hplGZfawGcPeo',
 };
 client.commands = new Enmap();
 client.queue = new Map();
