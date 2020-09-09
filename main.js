@@ -5,7 +5,7 @@ const fs = require("fs");
 const Enmap = require("enmap");
 
 client.config = {
-  prefix: 'ta ',
+  prefix: process.env.DISCORD_PREFIX,
   api: 'AIzaSyB4aSHr6FLYSO296BgK08hplGZfawGcPeo',
 };
 client.commands = new Enmap();
