@@ -6,7 +6,7 @@ const Enmap = require("enmap");
 
 client.config = {
   prefix: process.env.DISCORD_PREFIX,
-  api: 'AIzaSyB4aSHr6FLYSO296BgK08hplGZfawGcPeo',
+  api: '',
 };
 client.commands = new Enmap();
 client.queue = new Map();
