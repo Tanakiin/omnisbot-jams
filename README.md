@@ -1,5 +1,4 @@
 # Discord Music bot
-> Very simple discord music bot with the discord.js with Song Name playing. It can able to play music with song name.
 
 run the ``install.bat`` file to install
 run the ``start.bat`` file to start
